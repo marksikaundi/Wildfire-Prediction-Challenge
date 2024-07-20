@@ -38,7 +38,7 @@ UN-Adjusted Population Density (estimated number of persons per square kilometer
 Mean elevation in meters, from https://developers.google.com/earth-engine/datasets/catalog/USGS_GMTED2010
 Monthly Precipitation Estimates - https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B43V7
 
-## Would like to Join?
+## Would like to Join the challenge?
 [Join Now](https://zindi.africa/competitions/predict-fire-extent)
 
 ## Credit source
