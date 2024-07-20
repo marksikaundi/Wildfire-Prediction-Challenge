@@ -37,3 +37,9 @@ Land Cover: The percentage of the area falling into each of the LC_Type4 land co
 UN-Adjusted Population Density (estimated number of persons per square kilometer) from https://developers.google.com/earth-engine/datasets/catalog/CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Density
 Mean elevation in meters, from https://developers.google.com/earth-engine/datasets/catalog/USGS_GMTED2010
 Monthly Precipitation Estimates - https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B43V7
+
+## Would like to Join?
+[Join Now](https://zindi.africa/competitions/predict-fire-extent)
+
+## Credit source
+By [Zindi Africa](https://zindi.africa)
