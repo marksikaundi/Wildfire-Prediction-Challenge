@@ -15,6 +15,17 @@ We’ve aggregated data on burned areas across Zimbabwe for each month since 200
 > --
 We’ve split up Zimbabwe into 533 equal areas, centered around the locations provided in the lat/lon columns. The target variable, burn_area, is the percentage of the area that has been burned in a given month. Due to the way it’s measured, there may be some overlap of burned areas for two successive months, and so the total burned area over a time period isn’t necessarily equal to the sum of the ‘burn_area’ figures for all months. You are not permitted to use external data in this competition.
 
+## Evaluation
+
+The evaluation metric for this competition is (Root Mean Squared Error)[https://zindi.africa/learn/zindi-error-metric-series-what-is-root-mean-square-error-rmse#:~:text=Root%20Mean%20Squared%20Error%20or,want%20the%20model%20to%20achieve.].
+
+You need to predict the proportion of the burned area per area square, with values of 0 to 1.
+
+The IDs take the form of [area ID]_yyyy-mm-dd. There are 3821 area squares each with a unique ID ranging from 0 to 3820.
+
+Your submission file should look like this (numbers to show format only)
+
+
 > The additional data included in the test and train files is as follows:
 
 Climate: All columns climate_[variable] derived from https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE - see the image bands listed for more information.
