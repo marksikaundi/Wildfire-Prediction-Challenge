@@ -1,9 +1,5 @@
 # About Wildfire Prediction Challenge
 
-Can you predict the burned area of wildfires in ZInbabwe?
-
-## Description
-
 Welcome to our beginner-friendly Machine Learning Hackathon! This challenge is specially designed for first-time participants, offering a safe and supportive environment where you can learn, collaborate, ask questions and grow with fellow newcomers.
 
 Each year, thousands of fires blaze across the African continent. Some are natural occurrences, part of a ‘fire cycle’ that can actually benefit some dryland ecosystems. Many are started intentionally, used to clear land or to prepare fields for planting. And some are wildfires, which can rage over large areas and cause huge amounts of damage. Whatever the cause, fires pour vast amounts of CO2 into the atmosphere, along with smoke that degrades air quality for those living downwind.
@@ -34,7 +30,7 @@ ID                 burn_area
 3_2014-01-01         0.9751
 ```
 
-> The additional data included in the test and train files is as follows:
+## The additional data included in the test and train files is as follows:
 
 Climate: All columns climate\_[variable] derived from https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE - see the image bands listed for more information.
 Land Cover: The percentage of the area falling into each of the LC_Type4 land cover types https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1 - see for details.
