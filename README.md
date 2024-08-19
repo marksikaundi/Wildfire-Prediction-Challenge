@@ -41,5 +41,7 @@ Monthly Precipitation Estimates - https://developers.google.com/earth-engine/dat
 ## Would like to Join the challenge?
 [Join Now](https://zindi.africa/competitions/predict-fire-extent)
 
+## Status - Closed
+
 ## Credit source
 By [Zindi Africa](https://zindi.africa)
