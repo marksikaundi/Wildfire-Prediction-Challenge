@@ -1,4 +1,4 @@
-# About Wildfire Prediction Challenge
+# Wildfire Prediction Challenge
 
 Welcome to our beginner-friendly Machine Learning Hackathon! This challenge is specially designed for first-time participants, offering a safe and supportive environment where you can learn, collaborate, ask questions and grow with fellow newcomers.
 
